@@ -1,0 +1,3 @@
+De Cock, D. (2011). Ames Housing Dataset [Data set]. Retrieved from: http://jse.amstat.org/v19n3/decock/AmesHousing.xls
+
+Data documentation: http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
